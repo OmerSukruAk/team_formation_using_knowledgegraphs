@@ -1,0 +1,181 @@
+Team_member_id,Team_member_name,Team_member_level,Team_member_department,Team_member_skills,IsAvailable
+1,John Doe,Junior,Software,Java-Python,True
+2,Jane Smith,Mid-Level,AI,Python-Torch-ScikitLearn,False
+3,Emily Davis,Senior,Test,JUnit-Selenium-Cucumber-Jest-TestNG,True
+4,Michael Brown,Team Lead,Management,Project Management-Agile-Scrum-Lean-Strategy,False
+5,Chris Johnson,Junior,Software,JavaScript-React,True
+6,Linda Lee,Mid-Level,Test,Postman-Selenium-Jest-Cucumber,True
+7,Robert Wilson,Senior,AI,Python-TensorFlow-Keras-ScikitLearn-PyTorch,True
+8,David Harris,Team Lead,Software,JavaScript-NodeJs-React-Vue-Docker,True
+9,Jessica Clark,Junior,Management,Leadership-Communication,True
+10,William Lewis,Mid-Level,Test,JUnit-Python-Selenium-TestRail,False
+11,Olivia Walker,Senior,Software,Java-Spring-Hibernate-MySQL-Kubernetes,True
+12,James Young,Team Lead,Test,Test Strategy-Automation-SQL-Test Automation,True
+13,Charlotte Hall,Junior,AI,Python-ScikitLearn,True
+14,Daniel Allen,Mid-Level,Management,Agile-Scrum-Leadership-Time Management,False
+15,Amy Scott,Senior,AI,Python-PyTorch-CNN-TensorFlow-Keras,True
+16,Henry King,Team Lead,Software,NodeJs-React-Vue-JavaScript-Express,True
+17,Michael Wright,Junior,Test,Java-Selenium-Automation,True
+18,Isabella Green,Mid-Level,AI,Python-PyTorch-OpenCV-ScikitLearn,False
+19,Daniel Adams,Senior,Software,JavaScript-React-Angular-TypeScript-NodeJs,True
+20,Samuel Gonzalez,Team Lead,Management,Team Building-Agile-Leadership-Conflict Resolution,False
+21,Ava Martinez,Junior,Software,Java-Python,True
+22,Lucas Moore,Mid-Level,Test,Selenium-Cucumber-Jest-Python,True
+23,Harper Taylor,Senior,AI,Python-Keras-TensorFlow-PyTorch-CV,False
+24,Matthew Anderson,Team Lead,AI,Deep Learning-Python-TensorFlow-Keras-NLP,True
+25,Sofia Thomas,Junior,Software,C#-SQL-JavaScript,True
+26,Jackson Harris,Mid-Level,Management,Project Planning-Agile-Lean-Scrum,True
+27,Ethan Carter,Senior,Software,Java-NodeJs-Spring-Docker-React,True
+28,Lily Perez,Team Lead,Test,Test Automation-SQL-Selenium-Manual Testing,False
+29,Benjamin Roberts,Junior,Software,Java-Spring-React,True
+30,Chloe Walker,Mid-Level,AI,Machine Learning-Deep Learning-NLP,True
+31,Matthew Hill,Senior,Software,NodeJs-Express-React-Docker-TypeScript,True
+32,Isabella Lewis,Team Lead,AI,Data Science-ML-Deep Learning-TensorFlow-Python,True
+33,James Allen,Junior,Test,Selenium-Postman,True
+34,Charlotte Young,Mid-Level,Software,JavaScript-React-Vue-Jest,True
+35,William Thompson,Senior,Management,Leadership-Agile-Project Management-Operations,True
+36,Ella King,Team Lead,Software,Java-Python-Spring-Docker-NodeJs,False
+37,Nathan Scott,Junior,AI,Python-TensorFlow,True
+38,Emma Martinez,Mid-Level,Test,Jest-Selenium-Cucumber-Python,True
+39,Joshua Clark,Senior,Management,Operations-Leadership-Agile-Scrum-Strategy,True
+40,Mason Wright,Team Lead,Test,Manual Testing-Automation-UI Testing-Performance,True
+41,Jack Robinson,Junior,Software,C++-Java,True
+42,Amelia Harris,Mid-Level,Software,Python-JavaScript-React-NodeJs,True
+43,Henry Lewis,Senior,Test,API Testing-Performance Testing-Automated Testing-UI Testing-SQL,True
+44,Joseph Walker,Team Lead,Management,Agile-Scrum-Project Management-Leadership-Operations,True
+45,Ella Moore,Junior,Software,HTML-CSS-JavaScript,True
+46,Mia Young,Mid-Level,AI,Deep Learning-Python-ScikitLearn-TensorFlow,True
+47,Oliver Thomas,Senior,AI,Computer Vision-Deep Learning-Python-TensorFlow-PyTorch,True
+48,Aiden Lee,Team Lead,AI,AI-ML-Python-TensorFlow-Deep Learning-Data Science,False
+49,Zoe Allen,Junior,Test,Test Automation-SQL,True
+50,Emily Adams,Mid-Level,Software,JavaScript-React-NodeJs-HTML,True
+51,Liam Taylor,Senior,Software,Java-Spring-NodeJs-React-SQL,True
+52,Archer Green,Team Lead,Software,React-JavaScript-NodeJs-Docker-Git,False
+53,Grace Lee,Junior,AI,Python-SciKitLearn,True
+54,Charlotte Wilson,Mid-Level,Management,Team Coordination-Leadership-Scrum-Time Management,True
+55,Benjamin Martinez,Senior,Software,C#-JavaScript-ASP.NET-NodeJs-Azure,True
+56,Megan Harris,Team Lead,Software,NodeJs-JavaScript-React-AWS-Docker,True
+57,Lily Adams,Junior,Test,Manual Testing-SQL,True
+58,David Green,Mid-Level,AI,Python-NLP-TensorFlow-ScikitLearn,False
+59,Emma Roberts,Senior,Test,Test Automation-UI Testing-API Testing-Manual Testing-Load Testing,True
+60,Aiden Hall,Team Lead,Software,Java-NodeJs-React-Spring-Kubernetes,True
+61,Michael Thompson,Junior,Software,C#-Java-React,True
+62,Isabelle Brown,Mid-Level,Test,Appium-Selenium-Jest-Java,True
+63,Joshua King,Senior,Management,Leadership-Team Building-Agile-Operations-Scrum,True
+64,Jack Lewis,Team Lead,Software,Java-Spring-React-TypeScript-NodeJs,True
+65,Chloe Anderson,Junior,Test,Test Automation-Postman,True
+66,Samuel Taylor,Mid-Level,Software,JavaScript-HTML-CSS-TypeScript,True
+67,Ava Robinson,Senior,AI,ML-Python-Deep Learning-Computer Vision-NLP,False
+68,Mason Young,Team Lead,Test,Test Automation-Manual Testing-UI Testing-Performance Testing,True
+69,Elijah Clark,Junior,Software,C++-Python,True
+70,Oliver Wilson,Mid-Level,AI,TensorFlow-Keras-ScikitLearn-Deep Learning,True
+71,Abigail White,Senior,Test,Automated Testing-API Testing-UI Testing-Performance Testing-Test Automation,True
+72,Jackson Lee,Team Lead,Software,Java-Spring-Hibernate-React-Kubernetes,False
+73,Liam Walker,Junior,Software,Python-Django,True
+74,Leah Thomas,Mid-Level,Test,Postman-Automation-SQL-Jest,True
+75,Benjamin Taylor,Senior,Management,Agile-Leadership-Operations-Scrum-Strategic Planning,True
+76,Henry Wilson,Team Lead,AI,Machine Learning-Python-TensorFlow-Deep Learning-PyTorch,True
+77,Chloe Hall,Junior,Software,JavaScript-Python,True
+78,Matthew Thomas,Mid-Level,AI,NLP-TensorFlow-PyTorch-ScikitLearn,True
+79,Ethan Scott,Senior,Software,Java-React-Spring-Docker-Kubernetes,True
+80,Layla Robinson,Team Lead,Test,Manual Testing-Performance Testing-SQL-Automation,True
+81,Oliver Davis,Junior,Software,Python-React,True
+82,Isabelle Clark,Mid-Level,Software,Java-Spring-Docker-React,True
+83,Amelia Green,Senior,AI,Deep Learning-PyTorch-TensorFlow-Computer Vision-Python,True
+84,James Martinez,Team Lead,Software,React-NodeJs-JavaScript-Docker-Azure,True
+85,Megan Anderson,Junior,Test,API Testing-Selenium,True
+86,Luke Taylor,Mid-Level,AI,Deep Learning-TensorFlow-Keras-ScikitLearn,True
+87,Isaac King,Senior,Management,Operations-Leadership-Agile-Team Building-Scrum,True
+88,Sophia White,Team Lead,Test,Manual Testing-SQL-Test Automation-API Testing,True
+89,Daniel Scott,Junior,Software,JavaScript-Python-HTML,True
+90,Liam Brown,Mid-Level,AI,Python-NLP-TensorFlow-ScikitLearn,True
+91,Grace Adams,Senior,Software,NodeJs-Express-React-Kubernetes-Docker,True
+92,Lucas Young,Team Lead,AI,Data Science-ML-Deep Learning-TensorFlow-Python,True
+93,Ethan Green,Junior,Software,C++-Java,True
+94,Jack Thomas,Mid-Level,Test,Appium-Selenium-Java-Jest,True
+95,Emily Lewis,Senior,Test,API Testing-UI Testing-Performance Testing-Automated Testing,True
+96,Elijah Walker,Team Lead,Software,Java-NodeJs-React-Spring-Kotlin,True
+97,Amelia Harris,Junior,AI,Python-ScikitLearn,True
+98,Benjamin Anderson,Mid-Level,Management,Team Management-Scrum-Leadership-Project Planning,True
+99,Maria Moore,Senior,AI,Computer Vision-Python-OpenCV-Keras-TensorFlow,True
+100,Daniel Hall,Team Lead,Software,JavaScript-Vue-NodeJs-React-AWS,True
+101,Megan White,Junior,Software,React-NodeJs,True
+102,Lily Martinez,Mid-Level,Test,Postman-Selenium-Automation-Jenkins,True
+103,Zoe Green,Senior,Software,Java-Python-Spring-Kotlin-Docker,True
+104,Matthew Brown,Team Lead,AI,ML-Python-TensorFlow-Keras-Data Science,True
+105,Olivia Taylor,Junior,Software,JavaScript-CSS-React,True
+106,Nathan Lee,Mid-Level,Software,Python-React-JS-NodeJs,True
+107,Jack Harris,Senior,Test,Manual Testing-SQL-Automated Testing-Performance Testing-API Testing,True
+108,Grace Walker,Team Lead,Software,Java-Spring-NodeJs-React-Azure,True
+109,James Moore,Junior,Software,JavaScript-Python-CSS,True
+110,Charlotte Brown,Mid-Level,AI,Python-NLP-Deep Learning-TensorFlow,True
+111,William Johnson,Senior,Test,Test Automation-API Testing-Load Testing-SQL-Performance Testing,True
+112,David Clark,Team Lead,Management,Agile-Scrum-Leadership-Team Building-Operations,True
+113,Alice Williams,Junior,Software,HTML-CSS-JavaScript,True
+114,Henry Mitchell,Mid-Level,AI,Python-ScikitLearn-TensorFlow-NLP,True
+115,Lily Allen,Senior,Software,Java-Python-Spring-Kubernetes-Docker,True
+116,Lucas Rodriguez,Team Lead,AI,Deep Learning-Python-TensorFlow-PyTorch-Computer Vision,True
+117,Emily White,Junior,Software,React-Python,True
+118,Daniel Lewis,Mid-Level,Test,Jest-Selenium-Cucumber-API Testing,True
+119,Max Taylor,Senior,AI,ML-Python-TensorFlow-Computer Vision-Deep Learning,True
+120,Elena Walker,Team Lead,Test,Test Automation-UI Testing-SQL-Performance Testing-Manual Testing,True
+121,Eva Clark,Junior,Software,JavaScript-React,True
+122,Joshua Moore,Mid-Level,Software,React-JS-NodeJs-Express,True
+123,Maggie Thompson,Senior,Management,Leadership-Project Management-Operations-Agile-Strategy,True
+124,Leo Harris,Team Lead,Software,Java-NodeJs-React-Spring-Kubernetes,True
+125,Sophia Miller,Junior,AI,Python-NLP,True
+126,Aaron King,Mid-Level,AI,Python-ScikitLearn-TensorFlow-Keras,True
+127,Olivia Green,Senior,Test,API Testing-Selenium-Test Automation-UI Testing-Performance Testing,True
+128,Charlotte Lee,Team Lead,AI,Machine Learning-Deep Learning-NLP-Python-TensorFlow,True
+129,Tom Scott,Junior,Software,JavaScript-HTML-CSS,True
+130,Kate Harris,Mid-Level,Test,Selenium-Jenkins-Automation-SQL,True
+131,Liam Anderson,Senior,Software,Java-React-Spring-Hibernate-NodeJs,True
+132,Chloe Walker,Team Lead,Software,JavaScript-React-NodeJs-AWS-Docker,True
+133,David Robinson,Junior,Software,Python-HTML-JavaScript,True
+134,Charlotte Young,Mid-Level,AI,Machine Learning-NLP-PyTorch-TensorFlow,True
+135,Grace Green,Senior,Software,Java-Spring-Hibernate-Kubernetes-AWS-NodeJs,True
+136,Isaac Thomas,Team Lead,Test,Manual Testing-Test Automation-Performance Testing-API Testing-SQL,True
+137,Olivia Walker,Junior,Software,JavaScript-React,True
+138,James Miller,Mid-Level,Software,Java-Spring-Docker-NodeJs,True
+139,Nathan Lee,Senior,Management,Leadership-Agile-Scrum-Operations-Team Building,True
+140,Sarah White,Team Lead,Software,Python-JavaScript-React-Spring-Kubernetes,True
+141,Elijah Green,Junior,AI,Python-TensorFlow,True
+142,Oliver Lewis,Mid-Level,Test,Appium-Jenkins-Selenium-Cucumber,True
+143,Sophia Scott,Senior,AI,Deep Learning-Python-TensorFlow-Keras-NLP-CNN,True
+144,John Adams,Team Lead,Management,Project Management-Agile-Lean-Leadership-Operations,True
+145,Emily Green,Junior,Software,HTML-React-JavaScript,True
+146,Daniel Young,Mid-Level,AI,TensorFlow-Deep Learning-PyTorch-Keras,True
+147,Aiden Brown,Senior,Software,JavaScript-React-NodeJs-Docker-Express,True
+148,Lucas King,Team Lead,Test,Test Automation-Manual Testing-SQL-UI Testing-API Testing,True
+149,Amy Clark,Junior,Test,Manual Testing-SQL,True
+150,Matthew Adams,Mid-Level,Software,JavaScript-Python-Docker-React,True
+151,Max Moore,Senior,Management,Agile-Scrum-Team Building-Lean-Project Management,True
+152,Olivia White,Team Lead,AI,Deep Learning-PyTorch-TensorFlow-NLP-Computer Vision,True
+153,David Wilson,Junior,Software,React-JavaScript,True
+154,Eva Mitchell,Mid-Level,Test,Selenium-Postman-Automation-Jest,True
+155,Oliver Taylor,Senior,AI,Deep Learning-Python-TensorFlow-PyTorch-Computer Vision,True
+156,Chloe Harris,Team Lead,Management,Leadership-Team Building-Agile-Scrum-Project Management,True
+157,Lily Clark,Junior,Software,JavaScript-Python-HTML,True
+158,Tom Robinson,Mid-Level,Software,JavaScript-React-JS-NodeJs,True
+159,Grace Lee,Senior,Test,UI Testing-API Testing-Performance Testing-Test Automation-SQL,True
+160,Nathan Martinez,Team Lead,AI,ML-Deep Learning-Python-TensorFlow-PyTorch-Data Science,True
+161,Sophia Brown,Junior,Software,Python-React,True
+162,Isaac Green,Mid-Level,AI,TensorFlow-Keras-NLP-Python,True
+163,Charlotte Young,Senior,Software,Java-React-Spring-Docker-NodeJs-SQL,True
+164,Jack Harris,Team Lead,Test,Automation-Manual Testing-API Testing-UI Testing-Performance,True
+165,Max Lee,Junior,AI,Python-ScikitLearn,True
+166,Oliver Harris,Mid-Level,Test,Appium-Selenium-Jenkins-SQL,True
+167,Emily Robinson,Senior,Management,Leadership-Team Building-Agile-Scrum-Strategy-Operations,True
+168,David Brown,Team Lead,Software,JavaScript-Python-Docker-React-Spring,True
+169,Henry Taylor,Junior,Software,C#-Java-React,True
+170,Isabelle Scott,Mid-Level,Test,Appium-Jenkins-Cucumber-Selenium,True
+171,Grace Adams,Senior,AI,Deep Learning-PyTorch-TensorFlow-Keras-Computer Vision,True
+172,Amelia Green,Team Lead,Software,React-NodeJs-JavaScript-Spring-Kubernetes,True
+173,Tom Green,Junior,Software,C++-JavaScript,True
+174,Oliver White,Mid-Level,AI,Deep Learning-TensorFlow-ScikitLearn-Keras,True
+175,Samuel Scott,Senior,Test,Test Automation-SQL-UI Testing-Performance Testing-API Testing,True
+176,Liam Taylor,Team Lead,Software,Java-NodeJs-Spring-React-Docker,True
+177,Max Scott,Junior,AI,Python-SciKitLearn,True
+178,David Young,Mid-Level,Software,Python-React-NodeJs-Express,True
+179,Sophia Miller,Senior,Software,Java-Python-Spring-Kubernetes-Docker,True
+180,Jack Mitchell,Team Lead,Test,Manual Testing-API Testing
