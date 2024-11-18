@@ -178,4 +178,4 @@ Team_member_id,Team_member_name,Team_member_level,Team_member_department,Team_me
 177,Max Scott,Junior,AI,Python-SciKitLearn,True
 178,David Young,Mid-Level,Software,Python-React-NodeJs-Express,True
 179,Sophia Miller,Senior,Software,Java-Python-Spring-Kubernetes-Docker,True
-180,Jack Mitchell,Team Lead,Test,Manual Testing-API Testing
+180,Jack Mitchell,Team Lead,Test,Manual Testing-API Testing, True
