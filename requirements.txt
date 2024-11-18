@@ -1,0 +1,7 @@
+fastapi==0.88.0
+uvicorn==0.21.1
+requests==2.31.0
+python-dotenv==1.0.0
+apscheduler==3.10.4
+langchain-community==0.1.0 
+neo4j==5.8.0 
